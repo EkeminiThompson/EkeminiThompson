@@ -14,7 +14,7 @@ I'm a passionate software developer with experience in **FastAPI**, **SQLAlchemy
 
 ## 📫 How to Reach Me
 - **Email**: [ ekemini.thompson@outlook.com ]
-- **LinkedIn**: [ linkedin.com/EkeminiThompson ]
+- **LinkedIn**: [ www.linkedin.com/EkeminiThompson ]
 - **GitHub**: You're already here! 😃
 
 
