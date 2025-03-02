@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ekemini Thompson
 
-I'm a passionate software developer with experience in **FastAPI**, **SQLAlchemy**, **React (MUI & Ant Design)**, and **Machine Learning**. Currently, I'm building an **Electronic Medical Records (EMR) system** with robust features for billing, pharmacy records, patient management, and notifications.
+**psql**, **Python**, **React**, and **Machine Learning**
 
 ## 🌱 Currently Learning
 - Advanced **Machine Learning** techniques
