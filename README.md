@@ -1,11 +1,6 @@
 # Hi there! 👋 I'm Ekemini Thompson
 
-**psql**, **Python**, **React**, and **Machine Learning**
-
-## 🌱 Currently Learning
-- Advanced **Machine Learning** techniques
-- Scaling **FastAPI** applications
-- Optimizing **React** frontends for better user experience
+**AI**, **DEVOps**, and **Machine Learning**
 
 ## 💞️ Looking to Collaborate On
 - **Healthcare Tech** projects (EMR, AI in medicine)
