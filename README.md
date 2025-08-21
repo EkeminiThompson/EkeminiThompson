@@ -9,7 +9,7 @@
 
 ## 📫 How to Reach Me
 - **Email**: [ ekemini.thompson@outlook.com ]
-- **LinkedIn**: [ EkeminiThompson ]
+- **LinkedIn**: [www.linkedin.com/in/ekemini-thompson]
 - **GitHub**: You're already here! 😃
 
 
