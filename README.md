@@ -5,7 +5,7 @@
 ## 💞️ Looking to Collaborate On
 - **Healthcare Tech** projects (EMR, AI in medicine)
 - **Machine Learning** applications in real-world scenarios
-- Open-source projects related to **FastAPI** and **React**
+- Open-source projects 
 
 ## 📫 How to Reach Me
 - **Email**: [ ekemini.thompson@outlook.com ]
