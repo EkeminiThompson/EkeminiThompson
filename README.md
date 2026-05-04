@@ -1,4 +1,3 @@
-```markdown
 # Ekemini Thompson (PhD Candidate)
 
 **Principal Research Scientist · AI Systems Architect · Generative AI · Multimodal Reasoning**  
