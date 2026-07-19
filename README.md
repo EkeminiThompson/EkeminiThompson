@@ -53,7 +53,7 @@ I architect **production-grade AI systems** that reason transparently, match int
 
 | Degree | Field | Institution | Year |
 |--------|-------|-------------|------|
-| **PhD Candidate** | Computer Science (AI/ML) | NAU | 2023–Present |
+| **PhD Candidate** | Computer Science (AI/ML) | NAU | 2023–2026 |
 | **M.Sc.** | Machine Learning | GOU | 2021–2023 |
 | **B.Sc.** | Computer Engineering | OU | 2017–2021 |
 
