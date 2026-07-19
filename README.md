@@ -19,20 +19,7 @@ I architect **production-grade AI systems** that reason transparently, match int
 
 ---
 
-## 🔬 Selected Research Publications
 
-| Title | Venue | Year | Contribution |
-|-------|-------|------|--------------|
-| **Universal Matching with Chain-of-Thought Explanations: A Cross-Domain Framework** | *arXiv preprint* | 2025 | First unified framework for explainable matching across 4 domains; 23% improvement over semantic baselines |
-| **Hybrid Retrieval for LLM-Enhanced Recommendation Systems** | *NeurIPS Workshop on Efficient LLMs* | 2024 | Novel ensemble approach combining keyword, semantic, and LLM scoring with Bayesian optimization |
-| **Production-Scale A/B Testing for Matching Algorithms** | *MLOps Conference* | 2024 | Framework for comparing 5+ matching strategies with statistical significance testing |
-| **Synthetic Data Generation for Cross-Domain Evaluation** | *ACM SIGKDD Workshop* | 2024 | Domain-adaptive generator producing realistic profiles for jobs, dating, and e-commerce |
-
-**Preprints:**
-- *Chain-of-Thought Meets Collaborative Filtering* (under review, RecSys 2025)
-- *Zero-Shot Domain Transfer for Universal Matching* (submitted to NeurIPS 2025)
-
----
 
 ## 🏆 Technical Achievements
 
