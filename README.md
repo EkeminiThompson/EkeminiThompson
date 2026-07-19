@@ -1,7 +1,6 @@
-# Ekemini Thompson (PhD Candidate)
+# Ekemini Thompson
 
 **Principal Research Scientist · AI Systems Architect · Generative AI · Multimodal Reasoning**  
-*PhD Candidate in Computer Science, Specializing in Reasoning Systems & Universal Matching*
 
 ---
 
